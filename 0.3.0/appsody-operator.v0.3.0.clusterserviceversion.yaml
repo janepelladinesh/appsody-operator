@@ -275,5 +275,5 @@ spec:
   maturity: beta
   provider:
     name: Appsody
-  replaces: appsody-operator.v0.2.2
+  
   version: 0.3.0
